@@ -27,6 +27,5 @@ Este repositório contem o  **Projeto Trybesmith**  que reúne o aprendizado, en
  **Linkedin  [Alex Silva](https://www.linkedin.com/in/alexcssilva/)**
  
    **GitHub  [Trybe](https://github.com/tryber)**.
-
 ----------
 
